@@ -1,6 +1,6 @@
 # Best neighborhood to be homeless in:
 
-## Team Homeless:
+## Team Name - Team Homeless:
 ### Members:
 Jenny Wang - jlw252@pitt.edu
 James Heffernan - jbh139@pitt.edu
